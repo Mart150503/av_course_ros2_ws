@@ -1,4 +1,4 @@
-1 TASK - MAPPING
+1st TASK - MAPPING
 
 To launch the mapping process navigate to ros2_ws folder.
 
