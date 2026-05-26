@@ -28,6 +28,7 @@ setup(
     entry_points={
         'console_scripts': [
             "mapping = my_robot_controller.mapping:main",
+            'navigation = my_robot_controller.navigation:main',
         ],
     },
 )
